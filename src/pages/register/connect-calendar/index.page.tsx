@@ -11,8 +11,6 @@ export default function Register() {
 
   // }
 
-  console.log(session)
-
   return (
     <Container>
       <Header>
